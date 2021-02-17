@@ -1,0 +1,28 @@
+*{
+    font-size: large;
+    box-sizing: border-box;
+    font-family: cursive;
+    text-align: center;
+    background-color: rgb(21, 88, 175);
+  
+}
+.upload{
+   
+    top: 80px;
+    right: 0;
+    width: auto;
+    height: auto;
+    border: 3px solid #ad212d;
+    position: absolute;
+}
+.file{
+    width: auto;
+    position: relative;
+    height: auto;
+    border: 3px solid #c20909;
+}
+
+.subjects{
+    border: 3px solid black;
+}
+
